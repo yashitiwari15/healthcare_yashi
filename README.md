@@ -2,7 +2,7 @@
 
 A comprehensive healthcare management system built with Node.js, Express, React, and PostgreSQL. This system provides a complete solution for managing patients, doctors, appointments, and medical records.
 
-## 🚀 Features
+## Features
 
 ### Core Features
 - **User Management**: Registration, authentication, and role-based access control
@@ -22,7 +22,7 @@ A comprehensive healthcare management system built with Node.js, Express, React,
 - **Input Validation**: Comprehensive data validation
 - **Error Handling**: Centralized error handling
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Backend
 - **Node.js** - Runtime environment
@@ -41,7 +41,7 @@ A comprehensive healthcare management system built with Node.js, Express, React,
 - **Axios** - HTTP client
 - **Context API** - State management
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before running this project, make sure you have:
 
@@ -49,7 +49,7 @@ Before running this project, make sure you have:
 - **PostgreSQL** (v12 or higher)
 - **npm** or **yarn**
 
-## 🔧 Installation
+##  Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -119,7 +119,7 @@ UPLOAD_PATH=./uploads
 node setup-database.js
 ```
 
-## 🚀 Running the Application
+## Running the Application
 
 ### Start the Backend Server
 ```bash
@@ -185,7 +185,7 @@ The frontend will be available at `http://localhost:3001`
 - `POST /api/upload/multiple` - Upload multiple files
 - `DELETE /api/upload/:filename` - Delete file
 
-## 🧪 Testing
+##  Testing
 
 Run the test suite:
 ```bash
@@ -196,7 +196,7 @@ node test-new-features.js
 node test-simple.js
 ```
 
-## 🔐 User Roles
+##  User Roles
 
 ### Admin
 - Full access to all features
@@ -215,7 +215,7 @@ node test-simple.js
 - View own medical records
 - Manage relationships with doctors
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ai_healthcare/
@@ -258,7 +258,7 @@ ai_healthcare/
 └── README.md
 ```
 
-## 🚀 Deployment
+##  Deployment
 
 ### Environment Variables for Production
 Make sure to update the following for production:
@@ -273,7 +273,7 @@ Make sure to update the following for production:
 NODE_ENV=production node server.js
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -281,23 +281,4 @@ NODE_ENV=production node server.js
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/your-repo/issues) page
-2. Create a new issue with detailed information
-3. Contact the development team
-
-## 🙏 Acknowledgments
-
-- Express.js community for the excellent framework
-- React team for the amazing UI library
-- PostgreSQL community for the robust database
-- All contributors who helped make this project possible
-
----
