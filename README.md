@@ -2,7 +2,7 @@
 
 A comprehensive healthcare management system built with Node.js, Express, React, and PostgreSQL. This system provides a complete solution for managing patients, doctors, appointments, and medical records.
 
-## Features
+## Features:
 
 ### Core Features
 - **User Management**: Registration, authentication, and role-based access control
