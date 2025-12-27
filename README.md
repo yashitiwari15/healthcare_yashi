@@ -12,6 +12,8 @@ A comprehensive healthcare management system built with Node.js, Express, React,
 - **Medical Records**: Digital medical records with file attachments
 - **Patient-Doctor Relationships**: Manage healthcare provider relationships
 
+
+
 ### Technical Features
 - **JWT Authentication**: Secure token-based authentication
 - **Role-Based Access Control**: Admin, Doctor, and Patient roles
